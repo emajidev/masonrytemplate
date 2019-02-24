@@ -16,10 +16,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lobster|Roboto:100" rel="stylesheet">
+    <script src="blocki.js"></script>
 </head>
 
 
-<body id="background-siplo">
+<body id="background-siplo" document.oncontextmenu = function(){return false;}>
 <style>
     #background-siplo{background: #fafafa;
         background-image: url("img/sebra.png");
@@ -31,9 +32,12 @@
     <div id="masonry"></div>
 
 <script>
-    $(document).ready(function () {
+        
+        $(document).ready(function () {
         $('#navbar').load('components/navbar.html');
         $('#masonry').load('components/masonry.html');
+       
+
     });
 </script>
 
