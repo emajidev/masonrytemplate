@@ -3,4 +3,4 @@
 this is a simple grid css gallery template
 </p>
 
-![logging](https://github.com/emajidev/masonrytemplate/screen.png)
+![screenshot](https://raw.githubusercontent.com/emajidev/masonrytemplate/master/screen.png)
