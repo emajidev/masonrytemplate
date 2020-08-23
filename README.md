@@ -3,4 +3,4 @@
 this is a simple grid css gallery template
 </p>
 
-![screenshot](https://raw.githubusercontent.com/emajidev/masonrytemplate/master/screen.png)
+![Vector-clock img](https://github.com/emajidev/masonrytemplate/blob/master/sample.png)
